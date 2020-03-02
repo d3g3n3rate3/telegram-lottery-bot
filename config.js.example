@@ -1,0 +1,4 @@
+module.exports = {
+  "telegramKey": "kjfldjalfdjalf-telegram-bot-token",
+  "groups":   [-1001404923144, -354137134]
+}
