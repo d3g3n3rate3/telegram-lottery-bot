@@ -1,1 +1,6 @@
+#Telegram Lottery Bot
+Currently starts automatically when turned on.
+
+##Setup
+
 Update config.js.example values and re-name config.js
